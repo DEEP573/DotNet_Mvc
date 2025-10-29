@@ -20,10 +20,6 @@ It is a source code of the youtube tutorial on [Build a Full E-commerce Applicat
 
 **Note:** Every tool and tech is free for personal use. 
 
-## Video tutorial 📺
-
-[Build a Full E-commerce Application Using .NET Core 9, SQL Server, MVC | Complete Tutorial](https://youtu.be/_NzPJSofid8?si=jHuiACNd3dxzT1Go)
-
 ## How to run the project?🌐
 
 ### 1. With docker compse (Quickest way)
@@ -39,7 +35,7 @@ docker compose up -d
 
 **Note:** If you want to debug application and want to modify the project, I would recommend to follow the second approach.
 
-### 2. Manually setup every thing (Recommended for developers)
+### 2. Manually setup every thing 
 
 Make sure:
 - Dotnet sdk 9.0 or VisualStudio is installed in your machine
